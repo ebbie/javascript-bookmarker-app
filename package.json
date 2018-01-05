@@ -1,0 +1,23 @@
+{
+  "name": "javascript-bookmarker-app",
+  "version": "1.0.0",
+  "description": "This project is to use the concepts of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebbie/javascript-bookmarker-app.git"
+  },
+  "author": "ebbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebbie/javascript-bookmarker-app/issues"
+  },
+  "homepage": "https://github.com/ebbie/javascript-bookmarker-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
